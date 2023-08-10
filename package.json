@@ -1,0 +1,12 @@
+{
+  "name": "nominatim-js",
+  "version": "0.1.1",
+  "description": "A simple wrapper around OpenStreetMap's Nominatim API. Fully typed.",
+  "main": "src/index.ts",
+  "repository": "https://github.com/blksnk/nominatim-js.git",
+  "author": "Jean-Nicolas Veigel <art.jnveigel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
