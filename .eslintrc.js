@@ -15,7 +15,7 @@ module.exports = {
     sourceType: "module",
   },
   plugins: ["@typescript-eslint"],
-  ignorePatterns: ["**/dist/*.js"],
+  ignorePatterns: ["**/dist/*.js", "/docs", "/lib"],
   rules: {
     // generic
     "no-console": [
@@ -39,12 +39,4 @@ module.exports = {
     "@typescript-eslint/explicit-module-boundary-types": "off",
     "@typescript-eslint/ban-ts-comment": "warn",
   },
-  overrides: [
-    {
-      files: ["*.stories.tsx", "StoriesFormHelper.tsx"],
-      rules: {
-        "local-rules/form-no-debug": 0,
-      },
-    },
-  ],
 };
