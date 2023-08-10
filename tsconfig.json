@@ -6,6 +6,7 @@
     "lib": ["es2023"],
     "module": "Node16",
     "target": "es2022",
+    "outDir": "lib",
 
     "strict": true,
     "esModuleInterop": true,
@@ -13,6 +14,6 @@
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node16"
   },
-  "include": ["src"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules", "**/__tests__/*"]
 }
