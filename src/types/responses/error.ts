@@ -1,3 +1,7 @@
+/**
+ * @module error/response
+ */
+
 export declare interface NominatimErrorResponse {
   error: {
     code: number;

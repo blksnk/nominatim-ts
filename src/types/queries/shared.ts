@@ -1,4 +1,8 @@
 /**
+ * @module types/queries-shared
+ */
+
+/**
  * @see
  * {@link https://nominatim.org/release-docs/latest/api/Search/#examples:~:text=See-,Place%20Output%20Formats,-for%20details%20on Place output formats} for details on each format
  */

@@ -1,4 +1,8 @@
 /**
+ * @module status/query
+ */
+
+/**
  * Nominatim status format
  * Influences shape and details of response in case of status error
  *

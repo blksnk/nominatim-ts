@@ -1,3 +1,7 @@
+/**
+ * @module types/shared
+ */
+
 export declare type ExtraTags = {
   [k: string]: string;
 };

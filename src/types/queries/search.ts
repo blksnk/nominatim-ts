@@ -1,4 +1,6 @@
-// Query params
+/**
+ * @module search/query
+ */
 
 import { CommonOutputParams } from "./shared";
 

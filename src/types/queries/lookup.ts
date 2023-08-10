@@ -1,3 +1,7 @@
+/**
+ * @module lookup/query
+ */
+
 import { OSMIdQuery } from "../osm";
 import { CommonOutputParams } from "./shared";
 

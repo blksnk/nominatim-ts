@@ -1,3 +1,7 @@
+/**
+ * @module api/endpoint
+ */
+
 import {
   NominatimApiUrl,
   NominatimBaseUrl,

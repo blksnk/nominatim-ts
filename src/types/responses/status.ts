@@ -1,3 +1,7 @@
+/**
+ * @module status/response
+ */
+
 import { NominatimStatusParams } from "../queries/status";
 
 export declare type TextStatus = "OK" | "ERROR: Database connection failed";

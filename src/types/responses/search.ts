@@ -1,3 +1,7 @@
+/**
+ * @module search/response
+ */
+
 import { SearchParams } from "../queries/search";
 import {
   GeocodeJSONPlace,

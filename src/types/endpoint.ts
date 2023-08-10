@@ -1,3 +1,7 @@
+/**
+ * @module types/endpoint
+ */
+
 import {
   NominatimErrorResponse,
   NominatimStatusFormatErrorResponse,

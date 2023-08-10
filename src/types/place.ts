@@ -1,3 +1,7 @@
+/**
+ * @module types/place
+ */
+
 import { OSMId, OSMTagKey, OSMTagValue, OSMType, PlaceId } from "./osm";
 import {
   CoordinateString,

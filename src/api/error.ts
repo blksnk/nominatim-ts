@@ -1,3 +1,7 @@
+/**
+ * @module error/api
+ */
+
 import { NominatimErrorResponse } from "../types/responses/error";
 import { ResponseOrError } from "../types/endpoint";
 

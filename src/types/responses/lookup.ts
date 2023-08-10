@@ -1,3 +1,7 @@
+/**
+ * @module lookup/response
+ */
+
 import { NominatimLookupParams } from "../queries/lookup";
 import {
   GeocodeJSONPlace,

@@ -1,3 +1,7 @@
+/**
+ * @module reverse/query
+ */
+
 import { GeoJSONCoordinate } from "../geo";
 import { CommonOutputParams } from "./shared";
 

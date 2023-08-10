@@ -1,3 +1,7 @@
+/**
+ * @module reverse/response
+ */
+
 import { NominatimReverseParams } from "../queries/reverse";
 import {
   GeocodeJSONPlace,

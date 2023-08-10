@@ -1,3 +1,7 @@
+/**
+ * @module types/osm
+ */
+
 export declare type OSMType = "node" | "relation" | "way";
 
 export declare type OSMTypeAlias = "N" | "R" | "W";

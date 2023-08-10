@@ -1,4 +1,8 @@
 /**
+ * @module types/geo
+ */
+
+/**
  * Single coordinate formatted as a string
  *
  * @example `6.236721`
