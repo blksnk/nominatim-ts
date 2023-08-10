@@ -24,6 +24,24 @@ export const getEndpointUrl = (
   return `${baseUrl}${endpoint}`;
 };
 
+const parseParams = <
+  TEndpoint extends NominatimEndpoint,
+  TEndpointParams extends NominatimEndpointParams<TEndpoint>,
+>(
+  params: TEndpointParams,
+) => {
+  if ("osm_ids" in params && Array.isArray(params.osm_ids)) {
+    const ids = params.osm_ids.filter(
+      (id) => typeof id === "string",
+    ) as string[];
+    return {
+      ...params,
+      osm_ids: ids.join(","),
+    } as TEndpointParams;
+  }
+  return params;
+};
+
 export const endpointFactory = <TEndpoint extends NominatimEndpoint>(
   endpoint: TEndpoint,
   rootReplacementBaseUrl?: string,
@@ -38,7 +56,7 @@ export const endpointFactory = <TEndpoint extends NominatimEndpoint>(
       >(
         getEndpointUrl(endpoint, rootReplacementBaseUrl ?? replacementBaseUrl),
         {
-          params,
+          params: parseParams(params),
         },
       );
       return throwOnError(data);

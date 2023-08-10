@@ -76,7 +76,7 @@ export declare interface OSMIdsParams {
    * `R146656`
    * `R146656,W104393803,N240109189`
    */
-  osm_ids: string;
+  osm_ids: OSMIdsQuery | string;
 }
 
 export declare interface NominatimLookupParams
