@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / SearchResultLimitationParams
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / SearchResultLimitationParams
 
 # Interface: SearchResultLimitationParams
 
@@ -38,7 +38,7 @@ There is no guarantee that the result is complete.
 
 #### Defined in
 
-[src/types/queries/search.ts:85](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/search.ts#L85)
+[src/types/queries/search.ts:85](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L85)
 
 ___
 
@@ -58,7 +58,7 @@ Must be the [ISO 3166-1alpha2 code](https://nominatim.org/release-docs/latest/ap
 
 #### Defined in
 
-[src/types/queries/search.ts:50](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/search.ts#L50)
+[src/types/queries/search.ts:50](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L50)
 
 ___
 
@@ -77,7 +77,7 @@ If a previous query only returned a few results, then including those here would
 
 #### Defined in
 
-[src/types/queries/search.ts:57](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/search.ts#L57)
+[src/types/queries/search.ts:57](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L57)
 
 ___
 
@@ -94,7 +94,7 @@ Number between `1` and `50`
 
 #### Defined in
 
-[src/types/queries/search.ts:64](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/search.ts#L64)
+[src/types/queries/search.ts:64](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L64)
 
 ___
 
@@ -117,4 +117,4 @@ Any two corner points of the box are accepted as long as they span a real box.
 
 #### Defined in
 
-[src/types/queries/search.ts:74](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/search.ts#L74)
+[src/types/queries/search.ts:74](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L74)

@@ -1,6 +1,6 @@
-nominatim-js / [Documentation](modules.md)
+nominatim-ts / [Documentation](modules.md)
 
-# Nominatim-js
+# Nominatim-TS
 
 A simple wrapper around OpenStreetMap's Nominatim API. Fully typed.
 

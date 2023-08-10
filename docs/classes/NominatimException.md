@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / NominatimException
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / NominatimException
 
 # Class: NominatimException
 
@@ -40,7 +40,7 @@ Error.constructor
 
 #### Defined in
 
-[src/api/error.ts:10](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/error.ts#L10)
+[src/api/error.ts:10](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/error.ts#L10)
 
 ## Properties
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/api/error.ts:9](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/error.ts#L9)
+[src/api/error.ts:9](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/error.ts#L9)
 
 ___
 

@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSONLineString
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / GeoJSONLineString
 
 # Interface: GeoJSONLineString<TCoordinate\>
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/types/geo.ts:59](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L59)
+[src/types/geo.ts:59](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L59)
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 #### Defined in
 
-[src/types/geo.ts:58](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L58)
+[src/types/geo.ts:58](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L58)

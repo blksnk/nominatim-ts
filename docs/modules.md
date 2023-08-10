@@ -1,6 +1,6 @@
-[nominatim-js](README.md) / Documentation
+[nominatim-ts](README.md) / Documentation
 
-# nominatim-js
+# nominatim-ts
 
 ## Table of contents
 
@@ -125,7 +125,7 @@ Primary address type of the object
 
 #### Defined in
 
-[src/types/shared.ts:85](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/shared.ts#L85)
+[src/types/shared.ts:85](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/shared.ts#L85)
 
 ___
 
@@ -143,7 +143,7 @@ Single coordinate formatted as a string
 
 #### Defined in
 
-[src/types/geo.ts:10](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L10)
+[src/types/geo.ts:10](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L10)
 
 ___
 
@@ -157,7 +157,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:5](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/shared.ts#L5)
+[src/types/shared.ts:5](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/shared.ts#L5)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[src/types/geo.ts:23](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L23)
+[src/types/geo.ts:23](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L23)
 
 ___
 
@@ -196,7 +196,7 @@ Generic GeoJSON geometry structure
 
 #### Defined in
 
-[src/types/geo.ts:80](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L80)
+[src/types/geo.ts:80](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L80)
 
 ___
 
@@ -230,7 +230,7 @@ Only with `format=geojson`
 
 #### Defined in
 
-[src/types/responses/lookup.ts:50](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/lookup.ts#L50)
+[src/types/responses/lookup.ts:50](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/lookup.ts#L50)
 
 ___
 
@@ -274,7 +274,7 @@ Every feature includes a bounding box.
 
 #### Defined in
 
-[src/types/place.ts:174](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L174)
+[src/types/place.ts:174](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L174)
 
 ___
 
@@ -308,7 +308,7 @@ Only with `format=geojson`
 
 #### Defined in
 
-[src/types/responses/search.ts:49](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/search.ts#L49)
+[src/types/responses/search.ts:49](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/search.ts#L49)
 
 ___
 
@@ -318,7 +318,7 @@ ___
 
 #### Defined in
 
-[src/types/geo.ts:21](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L21)
+[src/types/geo.ts:21](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L21)
 
 ___
 
@@ -338,7 +338,7 @@ Administratives boundaries the feature is included in.
 
 #### Defined in
 
-[src/types/geo.ts:121](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L121)
+[src/types/geo.ts:121](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L121)
 
 ___
 
@@ -354,7 +354,7 @@ GeocodeJSON `properties.geocoding.type` property.
 
 #### Defined in
 
-[src/types/geo.ts:108](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L108)
+[src/types/geo.ts:108](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L108)
 
 ___
 
@@ -393,7 +393,7 @@ Only with `format=geocodejson`
 
 #### Defined in
 
-[src/types/responses/lookup.ts:67](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/lookup.ts#L67)
+[src/types/responses/lookup.ts:67](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/lookup.ts#L67)
 
 ___
 
@@ -435,7 +435,7 @@ Result format according to the [GeocodeJSON spec 0.1.0](https://github.com/geoco
 
 #### Defined in
 
-[src/types/place.ts:279](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L279)
+[src/types/place.ts:279](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L279)
 
 ___
 
@@ -474,7 +474,7 @@ Only with `format=geocodejson`
 
 #### Defined in
 
-[src/types/responses/search.ts:64](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/search.ts#L64)
+[src/types/responses/search.ts:64](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/search.ts#L64)
 
 ___
 
@@ -501,7 +501,7 @@ Only with `format=json`
 
 #### Defined in
 
-[src/types/responses/lookup.ts:23](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/lookup.ts#L23)
+[src/types/responses/lookup.ts:23](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/lookup.ts#L23)
 
 ___
 
@@ -542,7 +542,7 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:15](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L15)
+[src/types/place.ts:15](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L15)
 
 ___
 
@@ -569,7 +569,7 @@ Only with `format=json`
 
 #### Defined in
 
-[src/types/responses/search.ts:23](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/search.ts#L23)
+[src/types/responses/search.ts:23](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/search.ts#L23)
 
 ___
 
@@ -585,7 +585,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:37](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L37)
+[src/types/responses/status.ts:37](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L37)
 
 ___
 
@@ -612,7 +612,7 @@ Only with `format=jsonv2`
 
 #### Defined in
 
-[src/types/responses/lookup.ts:36](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/lookup.ts#L36)
+[src/types/responses/lookup.ts:36](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/lookup.ts#L36)
 
 ___
 
@@ -639,7 +639,7 @@ Only with `format=jsonv2`
 
 #### Defined in
 
-[src/types/responses/search.ts:36](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/search.ts#L36)
+[src/types/responses/search.ts:36](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/search.ts#L36)
 
 ___
 
@@ -660,7 +660,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:9](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/shared.ts#L9)
+[src/types/shared.ts:9](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/shared.ts#L9)
 
 ___
 
@@ -677,7 +677,7 @@ ___
 
 #### Defined in
 
-[src/types/endpoint.ts:29](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/endpoint.ts#L29)
+[src/types/endpoint.ts:29](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/endpoint.ts#L29)
 
 ___
 
@@ -687,7 +687,7 @@ ___
 
 #### Defined in
 
-[src/types/endpoint.ts:18](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/endpoint.ts#L18)
+[src/types/endpoint.ts:18](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/endpoint.ts#L18)
 
 ___
 
@@ -697,7 +697,7 @@ ___
 
 #### Defined in
 
-[src/types/endpoint.ts:27](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/endpoint.ts#L27)
+[src/types/endpoint.ts:27](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/endpoint.ts#L27)
 
 ___
 
@@ -713,7 +713,7 @@ ___
 
 #### Defined in
 
-[src/types/endpoint.ts:41](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/endpoint.ts#L41)
+[src/types/endpoint.ts:41](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/endpoint.ts#L41)
 
 ___
 
@@ -730,7 +730,7 @@ ___
 
 #### Defined in
 
-[src/types/endpoint.ts:53](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/endpoint.ts#L53)
+[src/types/endpoint.ts:53](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/endpoint.ts#L53)
 
 ___
 
@@ -753,7 +753,7 @@ One of [JSONLookupResponse](modules.md#jsonlookupresponse), [JSONV2LookupRespons
 
 #### Defined in
 
-[src/types/responses/lookup.ts:84](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/lookup.ts#L84)
+[src/types/responses/lookup.ts:84](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/lookup.ts#L84)
 
 ___
 
@@ -776,7 +776,7 @@ One of [JSONSearchResponse](modules.md#jsonsearchresponse), [JSONV2SearchRespons
 
 #### Defined in
 
-[src/types/responses/reverse.ts:86](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/reverse.ts#L86)
+[src/types/responses/reverse.ts:86](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/reverse.ts#L86)
 
 ___
 
@@ -792,7 +792,7 @@ Either [SimpleSearchParams](interfaces/SimpleSearchParams.md) **OR** [ComplexSea
 
 #### Defined in
 
-[src/types/queries/search.ts:143](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/search.ts#L143)
+[src/types/queries/search.ts:143](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L143)
 
 ___
 
@@ -815,7 +815,7 @@ One of [JSONSearchResponse](modules.md#jsonsearchresponse), [JSONV2SearchRespons
 
 #### Defined in
 
-[src/types/responses/search.ts:79](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/search.ts#L79)
+[src/types/responses/search.ts:79](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/search.ts#L79)
 
 ___
 
@@ -825,7 +825,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/error.ts:12](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/error.ts#L12)
+[src/types/responses/error.ts:12](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/error.ts#L12)
 
 ___
 
@@ -842,7 +842,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:40](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L40)
+[src/types/responses/status.ts:40](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L40)
 
 ___
 
@@ -852,7 +852,7 @@ ___
 
 #### Defined in
 
-[src/types/osm.ts:54](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/osm.ts#L54)
+[src/types/osm.ts:54](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/osm.ts#L54)
 
 ___
 
@@ -862,7 +862,7 @@ ___
 
 #### Defined in
 
-[src/types/osm.ts:56](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/osm.ts#L56)
+[src/types/osm.ts:56](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/osm.ts#L56)
 
 ___
 
@@ -872,7 +872,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/lookup.ts:8](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/lookup.ts#L8)
+[src/types/queries/lookup.ts:8](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/lookup.ts#L8)
 
 ___
 
@@ -888,7 +888,7 @@ Key of the main OSM Tag
 
 #### Defined in
 
-[src/types/osm.ts:13](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/osm.ts#L13)
+[src/types/osm.ts:13](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/osm.ts#L13)
 
 ___
 
@@ -904,7 +904,7 @@ Value of the main OSM Tag
 
 #### Defined in
 
-[src/types/osm.ts:29](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/osm.ts#L29)
+[src/types/osm.ts:29](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/osm.ts#L29)
 
 ___
 
@@ -914,7 +914,7 @@ ___
 
 #### Defined in
 
-[src/types/osm.ts:5](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/osm.ts#L5)
+[src/types/osm.ts:5](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/osm.ts#L5)
 
 ___
 
@@ -924,7 +924,7 @@ ___
 
 #### Defined in
 
-[src/types/osm.ts:7](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/osm.ts#L7)
+[src/types/osm.ts:7](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/osm.ts#L7)
 
 ___
 
@@ -945,7 +945,7 @@ then you should use the combination of [osm_type](modules.md#osmtype) + [osm_typ
 
 #### Defined in
 
-[src/types/osm.ts:52](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/osm.ts#L52)
+[src/types/osm.ts:52](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/osm.ts#L52)
 
 ___
 
@@ -959,7 +959,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:9](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/shared.ts#L9)
+[src/types/queries/shared.ts:9](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L9)
 
 ___
 
@@ -975,7 +975,7 @@ ___
 
 #### Defined in
 
-[src/types/endpoint.ts:36](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/endpoint.ts#L36)
+[src/types/endpoint.ts:36](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/endpoint.ts#L36)
 
 ___
 
@@ -985,7 +985,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:21](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L21)
+[src/types/responses/status.ts:21](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L21)
 
 ___
 
@@ -1004,7 +1004,7 @@ Influences shape and details of response in case of status error
 
 #### Defined in
 
-[src/types/queries/status.ts:11](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/queries/status.ts#L11)
+[src/types/queries/status.ts:11](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/status.ts#L11)
 
 ___
 
@@ -1020,7 +1020,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:23](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L23)
+[src/types/responses/status.ts:23](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L23)
 
 ___
 
@@ -1030,7 +1030,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:7](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L7)
+[src/types/responses/status.ts:7](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L7)
 
 ## Variables
 
@@ -1040,7 +1040,7 @@ ___
 
 #### Defined in
 
-[src/types/geo.ts:12](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L12)
+[src/types/geo.ts:12](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L12)
 
 ___
 
@@ -1050,7 +1050,7 @@ ___
 
 #### Defined in
 
-[src/api/endpoint.ts:15](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/endpoint.ts#L15)
+[src/api/endpoint.ts:15](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/endpoint.ts#L15)
 
 ___
 
@@ -1060,7 +1060,7 @@ ___
 
 #### Defined in
 
-[src/types/endpoint.ts:20](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/endpoint.ts#L20)
+[src/types/endpoint.ts:20](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/endpoint.ts#L20)
 
 ___
 
@@ -1070,7 +1070,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:9](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L9)
+[src/types/responses/status.ts:9](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L9)
 
 ___
 
@@ -1092,7 +1092,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:11](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L11)
+[src/types/responses/status.ts:11](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L11)
 
 ## Functions
 
@@ -1138,7 +1138,7 @@ ___
 
 #### Defined in
 
-[src/api/endpoint.ts:45](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/endpoint.ts#L45)
+[src/api/endpoint.ts:45](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/endpoint.ts#L45)
 
 ___
 
@@ -1159,7 +1159,7 @@ ___
 
 #### Defined in
 
-[src/api/endpoint.ts:18](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/endpoint.ts#L18)
+[src/api/endpoint.ts:18](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/endpoint.ts#L18)
 
 ___
 
@@ -1186,7 +1186,7 @@ ___
 
 #### Defined in
 
-[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/endpoint.ts#L49)
+[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/endpoint.ts#L49)
 
 ___
 
@@ -1213,7 +1213,7 @@ ___
 
 #### Defined in
 
-[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/endpoint.ts#L49)
+[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/endpoint.ts#L49)
 
 ___
 
@@ -1240,7 +1240,7 @@ ___
 
 #### Defined in
 
-[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/endpoint.ts#L49)
+[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/endpoint.ts#L49)
 
 ___
 
@@ -1267,7 +1267,7 @@ ___
 
 #### Defined in
 
-[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/endpoint.ts#L49)
+[src/api/endpoint.ts:49](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/endpoint.ts#L49)
 
 ___
 
@@ -1293,4 +1293,4 @@ ___
 
 #### Defined in
 
-[src/api/error.ts:19](https://github.com/blksnk/nominatim-js/blob/2f25718/src/api/error.ts#L19)
+[src/api/error.ts:19](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/api/error.ts#L19)

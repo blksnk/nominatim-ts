@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / NominatimErrorResponse
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / NominatimErrorResponse
 
 # Interface: NominatimErrorResponse
 
@@ -23,4 +23,4 @@
 
 #### Defined in
 
-[src/types/responses/error.ts:6](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/error.ts#L6)
+[src/types/responses/error.ts:6](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/error.ts#L6)

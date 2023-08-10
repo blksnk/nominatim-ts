@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / JSONV2Place
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / JSONV2Place
 
 # Interface: JSONV2Place<TParams\>
 
@@ -68,7 +68,7 @@ Omit.address
 
 #### Defined in
 
-[src/types/place.ts:98](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L98)
+[src/types/place.ts:98](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L98)
 
 ___
 
@@ -86,7 +86,7 @@ Omit.addresstype
 
 #### Defined in
 
-[src/types/place.ts:81](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L81)
+[src/types/place.ts:81](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L81)
 
 ___
 
@@ -116,7 +116,7 @@ Omit.boundingbox
 
 #### Defined in
 
-[src/types/place.ts:42](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L42)
+[src/types/place.ts:42](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L42)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:161](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L161)
+[src/types/place.ts:161](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L161)
 
 ___
 
@@ -152,7 +152,7 @@ Omit.display\_name
 
 #### Defined in
 
-[src/types/place.ts:60](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L60)
+[src/types/place.ts:60](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L60)
 
 ___
 
@@ -173,7 +173,7 @@ Omit.extratags
 
 #### Defined in
 
-[src/types/place.ts:106](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L106)
+[src/types/place.ts:106](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L106)
 
 ___
 
@@ -197,7 +197,7 @@ Omit.geojson
 
 #### Defined in
 
-[src/types/place.ts:131](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L131)
+[src/types/place.ts:131](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L131)
 
 ___
 
@@ -217,7 +217,7 @@ Omit.geokml
 
 #### Defined in
 
-[src/types/place.ts:140](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L140)
+[src/types/place.ts:140](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L140)
 
 ___
 
@@ -237,7 +237,7 @@ Omit.geotext
 
 #### Defined in
 
-[src/types/place.ts:147](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L147)
+[src/types/place.ts:147](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L147)
 
 ___
 
@@ -253,7 +253,7 @@ Omit.icon
 
 #### Defined in
 
-[src/types/place.ts:89](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L89)
+[src/types/place.ts:89](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L89)
 
 ___
 
@@ -269,7 +269,7 @@ Omit.importance
 
 #### Defined in
 
-[src/types/place.ts:85](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L85)
+[src/types/place.ts:85](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L85)
 
 ___
 
@@ -289,7 +289,7 @@ Omit.lat
 
 #### Defined in
 
-[src/types/place.ts:48](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L48)
+[src/types/place.ts:48](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L48)
 
 ___
 
@@ -309,7 +309,7 @@ Omit.lon
 
 #### Defined in
 
-[src/types/place.ts:54](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L54)
+[src/types/place.ts:54](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L54)
 
 ___
 
@@ -331,7 +331,7 @@ Omit.name
 
 #### Defined in
 
-[src/types/place.ts:66](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L66)
+[src/types/place.ts:66](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L66)
 
 ___
 
@@ -355,7 +355,7 @@ Omit.namedetails
 
 #### Defined in
 
-[src/types/place.ts:115](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L115)
+[src/types/place.ts:115](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L115)
 
 ___
 
@@ -373,7 +373,7 @@ Omit.osm\_id
 
 #### Defined in
 
-[src/types/place.ts:30](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L30)
+[src/types/place.ts:30](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L30)
 
 ___
 
@@ -391,7 +391,7 @@ Omit.osm\_type
 
 #### Defined in
 
-[src/types/place.ts:25](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L25)
+[src/types/place.ts:25](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L25)
 
 ___
 
@@ -409,7 +409,7 @@ Omit.place\_id
 
 #### Defined in
 
-[src/types/place.ts:20](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L20)
+[src/types/place.ts:20](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L20)
 
 ___
 
@@ -421,7 +421,7 @@ Search rank of the object
 
 #### Defined in
 
-[src/types/place.ts:165](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L165)
+[src/types/place.ts:165](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L165)
 
 ___
 
@@ -441,7 +441,7 @@ Omit.svg
 
 #### Defined in
 
-[src/types/place.ts:122](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L122)
+[src/types/place.ts:122](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L122)
 
 ___
 
@@ -459,4 +459,4 @@ Omit.type
 
 #### Defined in
 
-[src/types/place.ts:76](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/place.ts#L76)
+[src/types/place.ts:76](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L76)

@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSONPolygon
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / GeoJSONPolygon
 
 # Interface: GeoJSONPolygon<TCoordinate\>
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/types/geo.ts:39](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L39)
+[src/types/geo.ts:39](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L39)
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 #### Defined in
 
-[src/types/geo.ts:38](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/geo.ts#L38)
+[src/types/geo.ts:38](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L38)

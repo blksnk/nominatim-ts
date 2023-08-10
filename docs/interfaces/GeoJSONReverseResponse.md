@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSONReverseResponse
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / GeoJSONReverseResponse
 
 # Interface: GeoJSONReverseResponse<TParams\>
 
@@ -34,7 +34,7 @@ Only with `format=geojson`
 
 #### Defined in
 
-[src/types/responses/reverse.ts:55](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/reverse.ts#L55)
+[src/types/responses/reverse.ts:55](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/reverse.ts#L55)
 
 ___
 
@@ -44,4 +44,4 @@ ___
 
 #### Defined in
 
-[src/types/responses/reverse.ts:54](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/reverse.ts#L54)
+[src/types/responses/reverse.ts:54](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/reverse.ts#L54)

@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Documentation](../modules.md) / JSONErrorStatus
+[nominatim-ts](../README.md) / [Documentation](../modules.md) / JSONErrorStatus
 
 # Interface: JSONErrorStatus<TStatusCode\>
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/types/responses/status.ts:28](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L28)
+[src/types/responses/status.ts:28](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L28)
 
 ___
 
@@ -39,4 +39,4 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:27](https://github.com/blksnk/nominatim-js/blob/2f25718/src/types/responses/status.ts#L27)
+[src/types/responses/status.ts:27](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L27)
