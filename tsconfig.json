@@ -3,9 +3,9 @@
   "_version": "16.1.0",
 
   "compilerOptions": {
-    "lib": ["es2021"],
+    "lib": ["es2023"],
     "module": "Node16",
-    "target": "es2021",
+    "target": "es2022",
 
     "strict": true,
     "esModuleInterop": true,
