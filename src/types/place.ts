@@ -300,7 +300,7 @@ export declare type GeocodeJSONPlace<TParams extends CommonOutputParams> = {
       name: string;
       /**
        * @see
-       * {@link AddressDetails.housenumber}
+       * {@link AddressDetails.house_number}
        *
        * @remarks
        * Only with `addressdetails=1`
@@ -308,7 +308,7 @@ export declare type GeocodeJSONPlace<TParams extends CommonOutputParams> = {
       housenumber?: TParams["addressdetails"] extends 1 ? string : never;
       /**
        * @see
-       * {@link AddressDetails.street}
+       * {@link AddressDetails.road}
        *
        * @remarks
        * Only with `addressdetails=1`
@@ -316,7 +316,7 @@ export declare type GeocodeJSONPlace<TParams extends CommonOutputParams> = {
       street?: TParams["addressdetails"] extends 1 ? string : never;
       /**
        * @see
-       * {@link AddressDetails.locality}
+       * {@link AddressDetails.municipality}
        *
        * @remarks
        * Only with `addressdetails=1`
@@ -340,7 +340,7 @@ export declare type GeocodeJSONPlace<TParams extends CommonOutputParams> = {
       city?: TParams["addressdetails"] extends 1 ? string : never;
       /**
        * @see
-       * {@link AddressDetails.district}
+       * {@link AddressDetails.city_district}
        *
        * @remarks
        * Only with `addressdetails=1`

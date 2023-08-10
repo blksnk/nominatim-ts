@@ -9,7 +9,7 @@
  */
 export declare type CoordinateString = `${number}`;
 
-const GeoJSONTypes = [
+export const GeoJSONTypes = [
   "Point",
   "MultiPoint",
   "LineString",

@@ -6,9 +6,9 @@ import { NominatimStatusParams } from "../queries/status";
 
 export declare type TextStatus = "OK" | "ERROR: Database connection failed";
 
-const statusCodes = [0, 700, 701, 702, 703, 704, 705] as const;
+export const statusCodes = [0, 700, 701, 702, 703, 704, 705] as const;
 
-const statusMessages = {
+export const statusMessages = {
   0: "OK",
   700: "Connection failed",
   701: "Module failed",
@@ -23,12 +23,12 @@ export declare type StatusCode = (typeof statusCodes)[number];
 export declare type StatusMessage<TStatusCode extends StatusCode> =
   (typeof statusMessages)[TStatusCode];
 
-declare interface JSONErrorStatus<TStatusCode extends StatusCode> {
+export declare interface JSONErrorStatus<TStatusCode extends StatusCode> {
   status: TStatusCode;
   message: StatusMessage<TStatusCode>;
 }
 
-declare interface JSONSuccessStatus extends JSONErrorStatus<0> {
+export declare interface JSONSuccessStatus extends JSONErrorStatus<0> {
   data_updated: string;
   software_version: string;
   database_version: string;

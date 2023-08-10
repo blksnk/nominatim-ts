@@ -17,7 +17,12 @@ import { NominatimStatusResponse } from "./responses/status";
 
 export declare type NominatimBaseUrl = "https://nominatim.openstreetmap.org";
 
-const endpoints = ["/search", "/reverse", "/lookup", "/status.php"] as const;
+export const endpoints = [
+  "/search",
+  "/reverse",
+  "/lookup",
+  "/status.php",
+] as const;
 
 export declare type NominatimEndpoint = (typeof endpoints)[number];
 
