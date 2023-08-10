@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / NominatimErrorResponse
+[nominatim-js](../README.md) / [Documentation](../modules.md) / NominatimErrorResponse
 
 # Interface: NominatimErrorResponse
 

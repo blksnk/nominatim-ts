@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / ComplexSearchParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / ComplexSearchParams
 
 # Interface: ComplexSearchParams
 

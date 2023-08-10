@@ -1,4 +1,4 @@
-[nominatim-js](README.md) / Exports
+[nominatim-js](README.md) / Documentation
 
 # nominatim-js
 

@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / ComplexQuery
+[nominatim-js](../README.md) / [Documentation](../modules.md) / ComplexQuery
 
 # Interface: ComplexQuery
 

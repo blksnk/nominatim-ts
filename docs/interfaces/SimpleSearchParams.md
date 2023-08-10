@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / SimpleSearchParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / SimpleSearchParams
 
 # Interface: SimpleSearchParams
 

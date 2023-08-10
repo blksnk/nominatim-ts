@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / CoordinateParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / CoordinateParams
 
 # Interface: CoordinateParams
 

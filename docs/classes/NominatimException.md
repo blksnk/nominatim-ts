@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / NominatimException
+[nominatim-js](../README.md) / [Documentation](../modules.md) / NominatimException
 
 # Class: NominatimException
 

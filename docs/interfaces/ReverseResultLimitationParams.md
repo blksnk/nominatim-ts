@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / ReverseResultLimitationParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / ReverseResultLimitationParams
 
 # Interface: ReverseResultLimitationParams
 

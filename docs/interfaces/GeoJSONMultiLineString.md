@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / GeoJSONMultiLineString
+[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSONMultiLineString
 
 # Interface: GeoJSONMultiLineString<TCoordinate\>
 

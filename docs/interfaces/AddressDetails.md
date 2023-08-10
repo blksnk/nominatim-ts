@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / AddressDetails
+[nominatim-js](../README.md) / [Documentation](../modules.md) / AddressDetails
 
 # Interface: AddressDetails
 

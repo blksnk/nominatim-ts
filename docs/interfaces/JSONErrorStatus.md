@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / JSONErrorStatus
+[nominatim-js](../README.md) / [Documentation](../modules.md) / JSONErrorStatus
 
 # Interface: JSONErrorStatus<TStatusCode\>
 

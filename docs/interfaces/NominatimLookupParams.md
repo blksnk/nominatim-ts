@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / NominatimLookupParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / NominatimLookupParams
 
 # Interface: NominatimLookupParams
 

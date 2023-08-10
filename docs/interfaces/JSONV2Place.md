@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / JSONV2Place
+[nominatim-js](../README.md) / [Documentation](../modules.md) / JSONV2Place
 
 # Interface: JSONV2Place<TParams\>
 

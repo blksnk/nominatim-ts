@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / JSONSuccessStatus
+[nominatim-js](../README.md) / [Documentation](../modules.md) / JSONSuccessStatus
 
 # Interface: JSONSuccessStatus
 

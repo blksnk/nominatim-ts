@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / JSONReverseResponse
+[nominatim-js](../README.md) / [Documentation](../modules.md) / JSONReverseResponse
 
 # Interface: JSONReverseResponse<TParams\>
 

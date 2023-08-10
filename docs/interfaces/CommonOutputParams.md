@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / CommonOutputParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / CommonOutputParams
 
 # Interface: CommonOutputParams
 

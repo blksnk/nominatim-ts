@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / GeoJSONMultiPolygon
+[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSONMultiPolygon
 
 # Interface: GeoJSONMultiPolygon<TCoordinate\>
 

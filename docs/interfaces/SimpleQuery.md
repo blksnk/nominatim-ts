@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / SimpleQuery
+[nominatim-js](../README.md) / [Documentation](../modules.md) / SimpleQuery
 
 # Interface: SimpleQuery
 

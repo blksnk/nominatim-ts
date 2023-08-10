@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / SearchParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / SearchParams
 
 # Interface: SearchParams
 

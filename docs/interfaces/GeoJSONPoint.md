@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / GeoJSONPoint
+[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSONPoint
 
 # Interface: GeoJSONPoint<TCoordinate\>
 

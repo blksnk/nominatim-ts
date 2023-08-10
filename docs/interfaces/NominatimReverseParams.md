@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / NominatimReverseParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / NominatimReverseParams
 
 # Interface: NominatimReverseParams
 

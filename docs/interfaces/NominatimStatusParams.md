@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / NominatimStatusParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / NominatimStatusParams
 
 # Interface: NominatimStatusParams
 

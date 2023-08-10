@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / GeoJSOGeometryBase
+[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSOGeometryBase
 
 # Interface: GeoJSOGeometryBase
 

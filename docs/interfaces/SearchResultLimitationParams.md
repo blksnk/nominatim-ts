@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / SearchResultLimitationParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / SearchResultLimitationParams
 
 # Interface: SearchResultLimitationParams
 

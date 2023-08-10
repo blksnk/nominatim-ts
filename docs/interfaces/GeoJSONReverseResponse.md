@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / GeoJSONReverseResponse
+[nominatim-js](../README.md) / [Documentation](../modules.md) / GeoJSONReverseResponse
 
 # Interface: GeoJSONReverseResponse<TParams\>
 

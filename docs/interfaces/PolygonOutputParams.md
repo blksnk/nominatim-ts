@@ -1,4 +1,4 @@
-[nominatim-js](../README.md) / [Exports](../modules.md) / PolygonOutputParams
+[nominatim-js](../README.md) / [Documentation](../modules.md) / PolygonOutputParams
 
 # Interface: PolygonOutputParams
 
