@@ -19,7 +19,7 @@ export declare interface SimpleQuery {
   county?: never;
   state?: never;
   country?: never;
-  postalCode?: never;
+  postalcode?: never;
 }
 
 /**
@@ -36,7 +36,7 @@ export declare interface ComplexQuery {
   county?: string;
   state?: string;
   country?: string;
-  postalCode?: string;
+  postalcode?: string;
 }
 
 export declare interface SearchResultLimitationParams {
