@@ -75,6 +75,7 @@ export declare interface AddressDetails {
   tunnel?: string;
   waterway?: string;
   postcode?: string;
+  "ISO3166-2-lvl4"?: string;
 }
 
 /**
