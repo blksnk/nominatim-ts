@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / SimpleQuery
+[nominatim-ts](../README.md) / [Exports](../modules.md) / SimpleQuery
 
 # Interface: SimpleQuery
 
@@ -23,7 +23,7 @@ Commas are optional, but improve performance by reducing the complexity of the s
 - [city](SimpleQuery.md#city)
 - [country](SimpleQuery.md#country)
 - [county](SimpleQuery.md#county)
-- [postalCode](SimpleQuery.md#postalcode)
+- [postalcode](SimpleQuery.md#postalcode)
 - [q](SimpleQuery.md#q)
 - [state](SimpleQuery.md#state)
 - [street](SimpleQuery.md#street)
@@ -36,7 +36,7 @@ Commas are optional, but improve performance by reducing the complexity of the s
 
 #### Defined in
 
-[src/types/queries/search.ts:18](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L18)
+[src/types/queries/search.ts:18](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L18)
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:21](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L21)
+[src/types/queries/search.ts:21](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L21)
 
 ___
 
@@ -56,17 +56,17 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:19](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L19)
+[src/types/queries/search.ts:19](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L19)
 
 ___
 
-### postalCode
+### postalcode
 
-• `Optional` **postalCode**: `undefined`
+• `Optional` **postalcode**: `undefined`
 
 #### Defined in
 
-[src/types/queries/search.ts:22](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L22)
+[src/types/queries/search.ts:22](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L22)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:16](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L16)
+[src/types/queries/search.ts:16](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L16)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:20](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L20)
+[src/types/queries/search.ts:20](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L20)
 
 ___
 
@@ -96,4 +96,4 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:17](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/search.ts#L17)
+[src/types/queries/search.ts:17](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L17)

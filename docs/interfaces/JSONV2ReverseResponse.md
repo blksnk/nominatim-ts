@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / JSONV2ReverseResponse
+[nominatim-ts](../README.md) / [Exports](../modules.md) / JSONV2ReverseResponse
 
 # Interface: JSONV2ReverseResponse<TParams\>
 
@@ -73,7 +73,7 @@ Only with `addressdetails=1`
 
 #### Defined in
 
-[src/types/place.ts:98](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L98)
+[src/types/place.ts:98](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L98)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:81](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L81)
+[src/types/place.ts:81](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L81)
 
 ___
 
@@ -121,7 +121,7 @@ The whole planet would be `-90,90,-180,180`.
 
 #### Defined in
 
-[src/types/place.ts:42](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L42)
+[src/types/place.ts:42](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L42)
 
 ___
 
@@ -139,7 +139,7 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:161](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L161)
+[src/types/place.ts:161](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L161)
 
 ___
 
@@ -161,7 +161,7 @@ Full comma-separated address.
 
 #### Defined in
 
-[src/types/place.ts:60](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L60)
+[src/types/place.ts:60](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L60)
 
 ___
 
@@ -182,7 +182,7 @@ Only with `extratags=1`
 
 #### Defined in
 
-[src/types/place.ts:106](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L106)
+[src/types/place.ts:106](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L106)
 
 ___
 
@@ -206,7 +206,7 @@ only with `polygon_geojson=1`
 
 #### Defined in
 
-[src/types/place.ts:131](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L131)
+[src/types/place.ts:131](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L131)
 
 ___
 
@@ -226,7 +226,7 @@ only with `polygon_kml=1`
 
 #### Defined in
 
-[src/types/place.ts:140](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L140)
+[src/types/place.ts:140](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L140)
 
 ___
 
@@ -246,7 +246,7 @@ only with `polygon_text=1`
 
 #### Defined in
 
-[src/types/place.ts:147](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L147)
+[src/types/place.ts:147](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L147)
 
 ___
 
@@ -262,7 +262,7 @@ Link to [class](../modules.md#class) icon (if available).
 
 #### Defined in
 
-[src/types/place.ts:89](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L89)
+[src/types/place.ts:89](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L89)
 
 ___
 
@@ -278,7 +278,7 @@ Computed importance rank
 
 #### Defined in
 
-[src/types/place.ts:85](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L85)
+[src/types/place.ts:85](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L85)
 
 ___
 
@@ -298,7 +298,7 @@ Latitude of the centroid of the object.
 
 #### Defined in
 
-[src/types/place.ts:48](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L48)
+[src/types/place.ts:48](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L48)
 
 ___
 
@@ -318,7 +318,7 @@ Longitude of the centroid of the object.
 
 #### Defined in
 
-[src/types/place.ts:54](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L54)
+[src/types/place.ts:54](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L54)
 
 ___
 
@@ -340,7 +340,7 @@ Localised name of the place.
 
 #### Defined in
 
-[src/types/place.ts:66](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L66)
+[src/types/place.ts:66](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L66)
 
 ___
 
@@ -364,7 +364,7 @@ Only with `namedetails=1`
 
 #### Defined in
 
-[src/types/place.ts:115](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L115)
+[src/types/place.ts:115](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L115)
 
 ___
 
@@ -382,7 +382,7 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:30](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L30)
+[src/types/place.ts:30](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L30)
 
 ___
 
@@ -400,7 +400,7 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:25](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L25)
+[src/types/place.ts:25](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L25)
 
 ___
 
@@ -418,7 +418,7 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:20](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L20)
+[src/types/place.ts:20](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L20)
 
 ___
 
@@ -434,7 +434,7 @@ Search rank of the object
 
 #### Defined in
 
-[src/types/place.ts:165](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L165)
+[src/types/place.ts:165](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L165)
 
 ___
 
@@ -454,7 +454,7 @@ only with `polygon_svg=1`
 
 #### Defined in
 
-[src/types/place.ts:122](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L122)
+[src/types/place.ts:122](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L122)
 
 ___
 
@@ -472,4 +472,4 @@ ___
 
 #### Defined in
 
-[src/types/place.ts:76](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/place.ts#L76)
+[src/types/place.ts:76](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/place.ts#L76)

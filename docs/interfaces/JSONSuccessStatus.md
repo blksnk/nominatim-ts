@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / JSONSuccessStatus
+[nominatim-ts](../README.md) / [Exports](../modules.md) / JSONSuccessStatus
 
 # Interface: JSONSuccessStatus
 
@@ -26,7 +26,7 @@
 
 #### Defined in
 
-[src/types/responses/status.ts:32](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L32)
+[src/types/responses/status.ts:32](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/responses/status.ts#L32)
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:34](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L34)
+[src/types/responses/status.ts:34](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/responses/status.ts#L34)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:28](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L28)
+[src/types/responses/status.ts:28](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/responses/status.ts#L28)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:33](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L33)
+[src/types/responses/status.ts:33](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/responses/status.ts#L33)
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 #### Defined in
 
-[src/types/responses/status.ts:27](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/responses/status.ts#L27)
+[src/types/responses/status.ts:27](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/responses/status.ts#L27)

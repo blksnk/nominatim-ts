@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / PolygonOutputParams
+[nominatim-ts](../README.md) / [Exports](../modules.md) / PolygonOutputParams
 
 # Interface: PolygonOutputParams
 
@@ -35,7 +35,7 @@ Only one of these options can be used at a time.
 
 #### Defined in
 
-[src/types/queries/shared.ts:24](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L24)
+[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L27)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:25](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L25)
+[src/types/queries/shared.ts:28](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L28)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:26](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L26)
+[src/types/queries/shared.ts:29](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L29)
 
 ___
 
@@ -65,4 +65,4 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L27)
+[src/types/queries/shared.ts:30](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L30)

@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / GeoJSONMultiPoint
+[nominatim-ts](../README.md) / [Exports](../modules.md) / GeoJSONMultiPoint
 
 # Interface: GeoJSONMultiPoint<TCoordinate\>
 
@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/types/geo.ts:46](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L46)
+[src/types/geo.ts:46](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/geo.ts#L46)
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 #### Defined in
 
-[src/types/geo.ts:45](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/geo.ts#L45)
+[src/types/geo.ts:45](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/geo.ts#L45)

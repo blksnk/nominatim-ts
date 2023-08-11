@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / NominatimStatusParams
+[nominatim-ts](../README.md) / [Exports](../modules.md) / NominatimStatusParams
 
 # Interface: NominatimStatusParams
 
@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/types/queries/status.ts:14](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/status.ts#L14)
+[src/types/queries/status.ts:14](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/status.ts#L14)

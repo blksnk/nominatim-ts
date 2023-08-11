@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / CoordinateParams
+[nominatim-ts](../README.md) / [Exports](../modules.md) / CoordinateParams
 
 # Interface: CoordinateParams
 
@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[src/types/queries/reverse.ts:9](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/reverse.ts#L9)
+[src/types/queries/reverse.ts:9](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L9)
 
 ___
 
@@ -33,4 +33,4 @@ ___
 
 #### Defined in
 
-[src/types/queries/reverse.ts:10](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/reverse.ts#L10)
+[src/types/queries/reverse.ts:10](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L10)

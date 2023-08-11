@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / OutputDetailsParams
+[nominatim-ts](../README.md) / [Exports](../modules.md) / OutputDetailsParams
 
 # Interface: OutputDetailsParams
 
@@ -32,7 +32,7 @@ Include a breakdown of the address into elements
 
 #### Defined in
 
-[src/types/queries/shared.ts:74](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L74)
+[src/types/queries/shared.ts:77](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L77)
 
 ___
 
@@ -48,7 +48,7 @@ Include additional information in the result if available, e.g. wikipedia link, 
 
 #### Defined in
 
-[src/types/queries/shared.ts:80](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L80)
+[src/types/queries/shared.ts:83](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L83)
 
 ___
 
@@ -65,4 +65,4 @@ These may include language variants, references, operator and brand.
 
 #### Defined in
 
-[src/types/queries/shared.ts:87](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L87)
+[src/types/queries/shared.ts:90](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L90)

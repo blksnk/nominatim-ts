@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / AdditionalParams
+[nominatim-ts](../README.md) / [Exports](../modules.md) / AdditionalParams
 
 # Interface: AdditionalParams
 
@@ -27,7 +27,7 @@ Either use a standard RFC2616 accept-language string or a simple comma-separated
 
 #### Defined in
 
-[src/types/queries/shared.ts:46](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L46)
+[src/types/queries/shared.ts:49](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L49)
 
 ___
 
@@ -48,7 +48,7 @@ The output is (rough) HTML format. This overrides the specified machine readable
 
 #### Defined in
 
-[src/types/queries/shared.ts:62](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L62)
+[src/types/queries/shared.ts:65](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L65)
 
 ___
 
@@ -64,4 +64,4 @@ If you are making large numbers of requests, please include an appropriate email
 
 #### Defined in
 
-[src/types/queries/shared.ts:52](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L52)
+[src/types/queries/shared.ts:55](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L55)

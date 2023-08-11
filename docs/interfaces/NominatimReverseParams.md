@@ -1,4 +1,4 @@
-[nominatim-ts](../README.md) / [Documentation](../modules.md) / NominatimReverseParams
+[nominatim-ts](../README.md) / [Exports](../modules.md) / NominatimReverseParams
 
 # Interface: NominatimReverseParams
 
@@ -49,7 +49,7 @@ Either use a standard RFC2616 accept-language string or a simple comma-separated
 
 #### Defined in
 
-[src/types/queries/shared.ts:46](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L46)
+[src/types/queries/shared.ts:49](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L49)
 
 ___
 
@@ -69,7 +69,7 @@ Include a breakdown of the address into elements
 
 #### Defined in
 
-[src/types/queries/shared.ts:74](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L74)
+[src/types/queries/shared.ts:77](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L77)
 
 ___
 
@@ -94,7 +94,7 @@ The output is (rough) HTML format. This overrides the specified machine readable
 
 #### Defined in
 
-[src/types/queries/shared.ts:62](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L62)
+[src/types/queries/shared.ts:65](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L65)
 
 ___
 
@@ -114,7 +114,7 @@ If you are making large numbers of requests, please include an appropriate email
 
 #### Defined in
 
-[src/types/queries/shared.ts:52](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L52)
+[src/types/queries/shared.ts:55](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L55)
 
 ___
 
@@ -134,13 +134,13 @@ Include additional information in the result if available, e.g. wikipedia link, 
 
 #### Defined in
 
-[src/types/queries/shared.ts:80](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L80)
+[src/types/queries/shared.ts:83](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L83)
 
 ___
 
 ### format
 
-• `Optional` **format**: [`ResponseFormat`](../modules.md#responseformat)
+• `Optional` **format**: ``"json"`` \| ``"jsonv2"`` \| ``"geojson"`` \| ``"geocodejson"``
 
 Dictates api response format
 
@@ -158,7 +158,7 @@ Dictates api response format
 
 #### Defined in
 
-[src/types/queries/shared.ts:101](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L101)
+[src/types/queries/shared.ts:104](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L104)
 
 ___
 
@@ -172,7 +172,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/reverse.ts:9](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/reverse.ts#L9)
+[src/types/queries/reverse.ts:9](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L9)
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/reverse.ts:10](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/reverse.ts#L10)
+[src/types/queries/reverse.ts:10](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L10)
 
 ___
 
@@ -207,7 +207,7 @@ These may include language variants, references, operator and brand.
 
 #### Defined in
 
-[src/types/queries/shared.ts:87](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L87)
+[src/types/queries/shared.ts:90](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L90)
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:24](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L24)
+[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L27)
 
 ___
 
@@ -235,7 +235,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:25](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L25)
+[src/types/queries/shared.ts:28](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L28)
 
 ___
 
@@ -249,7 +249,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:26](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L26)
+[src/types/queries/shared.ts:29](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L29)
 
 ___
 
@@ -263,7 +263,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L27)
+[src/types/queries/shared.ts:30](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L30)
 
 ___
 
@@ -285,7 +285,7 @@ Topology is preserved in the result.
 
 #### Defined in
 
-[src/types/queries/shared.ts:38](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/shared.ts#L38)
+[src/types/queries/shared.ts:41](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L41)
 
 ___
 
@@ -311,4 +311,4 @@ This is a number that corresponds roughly to the zoom level used in XYZ tile sou
 
 #### Defined in
 
-[src/types/queries/reverse.ts:24](https://github.com/blksnk/nominatim-ts/blob/2f25718/src/types/queries/reverse.ts#L24)
+[src/types/queries/reverse.ts:24](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L24)
