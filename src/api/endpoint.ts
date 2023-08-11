@@ -30,6 +30,14 @@ const parseParams = <
 >(
   params: TEndpointParams,
 ) => {
+  // TODO: add support for XML format
+  params = {
+    ...params,
+    format:
+      // @ts-ignore
+      params.format === "xml" || !params.format ? "jsonv2" : params.format,
+  };
+
   if ("osm_ids" in params && Array.isArray(params.osm_ids)) {
     const ids = params.osm_ids.filter(
       (id) => typeof id === "string",

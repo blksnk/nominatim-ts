@@ -7,9 +7,11 @@ import { ResponseOrError } from "../types/endpoint";
 
 export class NominatimException extends Error {
   code: number;
+  message: string;
   constructor(errorResponse: NominatimErrorResponse) {
     super(errorResponse.error.message);
     this.code = errorResponse.error.code;
+    this.message = errorResponse.error.message;
 
     // Set the prototype explicitly.
     Object.setPrototypeOf(this, NominatimException.prototype);
