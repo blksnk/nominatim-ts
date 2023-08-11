@@ -2,15 +2,18 @@
  * @module types/queries-shared
  */
 
+export const ResponseFormats = [
+  "json",
+  "jsonv2",
+  "geojson",
+  "geocodejson",
+] as const;
+
 /**
  * @see
  * {@link https://nominatim.org/release-docs/latest/api/Search/#examples:~:text=See-,Place%20Output%20Formats,-for%20details%20on Place output formats} for details on each format
  */
-export declare type ResponseFormat =
-  | "json"
-  | "jsonv2"
-  | "geojson"
-  | "geocodejson";
+export declare type ResponseFormat = (typeof ResponseFormats)[number];
 
 /**
  * Output geometry of results as a GeoJSON, KML, SVG or WKT.
