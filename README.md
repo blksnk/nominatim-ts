@@ -7,7 +7,7 @@ Nominatim-TS aims to replicate OpenStreetMap's [Nominatim API](https://nominatim
 while making its complex data model and various response formats play nice with any typescript project.
 
 
-Full documentation and typings are available [here](modules.md).
+Full documentation and typings are available [here](docs/modules.md).
 
 ## Installation
 This library runs on Node.js and is available as a NPM package.
