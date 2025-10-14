@@ -6,8 +6,14 @@ import { GeoJSONCoordinate } from "../geo";
 import { CommonOutputParams } from "./shared";
 
 export declare interface CoordinateParams {
+  /**
+   * Latitude
+   */
   lat: GeoJSONCoordinate;
-  log: GeoJSONCoordinate;
+  /**
+   * Longitude
+   */
+  lon: GeoJSONCoordinate;
 }
 
 export declare interface ReverseResultLimitationParams {
