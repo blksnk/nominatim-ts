@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[src/types/queries/status.ts:14](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/status.ts#L14)
+[src/types/queries/status.ts:14](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/status.ts#L14)

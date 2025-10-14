@@ -2,6 +2,8 @@
 
 # Class: NominatimException
 
+Custom exception class for Nominatim API errors.
+
 ## Hierarchy
 
 - `Error`
@@ -34,11 +36,13 @@
 
 • **new NominatimException**(`errorResponse`)
 
+Creates a new NominatimException.
+
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `errorResponse` | [`NominatimErrorResponse`](../interfaces/NominatimErrorResponse.md) |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `errorResponse` | [`NominatimErrorResponse`](../interfaces/NominatimErrorResponse.md) | The error response from the Nominatim API. |
 
 #### Overrides
 
@@ -46,7 +50,7 @@ Error.constructor
 
 #### Defined in
 
-[src/api/error.ts:11](https://github.com/blksnk/nominatim-js/blob/a025e65/src/api/error.ts#L11)
+[src/api/error.ts:23](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/api/error.ts#L23)
 
 ## Properties
 
@@ -68,9 +72,11 @@ ___
 
 • **code**: `number`
 
+The error code returned by the Nominatim API.
+
 #### Defined in
 
-[src/api/error.ts:9](https://github.com/blksnk/nominatim-js/blob/a025e65/src/api/error.ts#L9)
+[src/api/error.ts:14](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/api/error.ts#L14)
 
 ___
 
@@ -78,13 +84,15 @@ ___
 
 • **message**: `string`
 
+The error message returned by the Nominatim API.
+
 #### Overrides
 
 Error.message
 
 #### Defined in
 
-[src/api/error.ts:10](https://github.com/blksnk/nominatim-js/blob/a025e65/src/api/error.ts#L10)
+[src/api/error.ts:17](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/api/error.ts#L17)
 
 ___
 

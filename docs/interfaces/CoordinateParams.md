@@ -13,7 +13,7 @@
 ### Properties
 
 - [lat](CoordinateParams.md#lat)
-- [log](CoordinateParams.md#log)
+- [lon](CoordinateParams.md#lon)
 
 ## Properties
 
@@ -21,16 +21,20 @@
 
 • **lat**: [`GeoJSONCoordinate`](../modules.md#geojsoncoordinate)
 
+Latitude
+
 #### Defined in
 
-[src/types/queries/reverse.ts:9](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L9)
+[src/types/queries/reverse.ts:12](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/reverse.ts#L12)
 
 ___
 
-### log
+### lon
 
-• **log**: [`GeoJSONCoordinate`](../modules.md#geojsoncoordinate)
+• **lon**: [`GeoJSONCoordinate`](../modules.md#geojsoncoordinate)
+
+Longitude
 
 #### Defined in
 
-[src/types/queries/reverse.ts:10](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L10)
+[src/types/queries/reverse.ts:16](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/reverse.ts#L16)

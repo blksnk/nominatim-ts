@@ -78,7 +78,7 @@ It is highly unlikely that a single AddressDetails object could contain all list
 
 #### Defined in
 
-[src/types/shared.ts:78](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L78)
+[src/types/shared.ts:78](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L78)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:63](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L63)
+[src/types/shared.ts:63](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L63)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:66](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L66)
+[src/types/shared.ts:66](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L66)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:43](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L43)
+[src/types/shared.ts:43](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L43)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:65](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L65)
+[src/types/shared.ts:65](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L65)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:36](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L36)
+[src/types/shared.ts:36](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L36)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:64](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L64)
+[src/types/shared.ts:64](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L64)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:74](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L74)
+[src/types/shared.ts:74](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L74)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:32](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L32)
+[src/types/shared.ts:32](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L32)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:45](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L45)
+[src/types/shared.ts:45](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L45)
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:35](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L35)
+[src/types/shared.ts:35](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L35)
 
 ___
 
@@ -188,7 +188,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:67](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L67)
+[src/types/shared.ts:67](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L67)
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:50](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L50)
+[src/types/shared.ts:50](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L50)
 
 ___
 
@@ -208,7 +208,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:24](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L24)
+[src/types/shared.ts:24](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L24)
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:25](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L25)
+[src/types/shared.ts:25](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L25)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:26](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L26)
+[src/types/shared.ts:26](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L26)
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:30](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L30)
+[src/types/shared.ts:30](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L30)
 
 ___
 
@@ -248,7 +248,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:68](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L68)
+[src/types/shared.ts:68](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L68)
 
 ___
 
@@ -258,7 +258,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:40](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L40)
+[src/types/shared.ts:40](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L40)
 
 ___
 
@@ -268,7 +268,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:55](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L55)
+[src/types/shared.ts:55](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L55)
 
 ___
 
@@ -278,7 +278,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:47](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L47)
+[src/types/shared.ts:47](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L47)
 
 ___
 
@@ -288,7 +288,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:48](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L48)
+[src/types/shared.ts:48](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L48)
 
 ___
 
@@ -298,7 +298,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:39](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L39)
+[src/types/shared.ts:39](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L39)
 
 ___
 
@@ -308,7 +308,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:56](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L56)
+[src/types/shared.ts:56](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L56)
 
 ___
 
@@ -318,7 +318,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:54](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L54)
+[src/types/shared.ts:54](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L54)
 
 ___
 
@@ -328,7 +328,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:53](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L53)
+[src/types/shared.ts:53](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L53)
 
 ___
 
@@ -338,7 +338,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:49](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L49)
+[src/types/shared.ts:49](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L49)
 
 ___
 
@@ -348,7 +348,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:41](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L41)
+[src/types/shared.ts:41](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L41)
 
 ___
 
@@ -358,7 +358,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:59](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L59)
+[src/types/shared.ts:59](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L59)
 
 ___
 
@@ -368,7 +368,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:69](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L69)
+[src/types/shared.ts:69](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L69)
 
 ___
 
@@ -378,7 +378,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:62](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L62)
+[src/types/shared.ts:62](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L62)
 
 ___
 
@@ -388,7 +388,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:57](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L57)
+[src/types/shared.ts:57](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L57)
 
 ___
 
@@ -398,7 +398,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:71](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L71)
+[src/types/shared.ts:71](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L71)
 
 ___
 
@@ -408,7 +408,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:31](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L31)
+[src/types/shared.ts:31](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L31)
 
 ___
 
@@ -418,7 +418,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:58](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L58)
+[src/types/shared.ts:58](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L58)
 
 ___
 
@@ -428,7 +428,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:42](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L42)
+[src/types/shared.ts:42](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L42)
 
 ___
 
@@ -438,7 +438,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:70](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L70)
+[src/types/shared.ts:70](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L70)
 
 ___
 
@@ -448,7 +448,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:60](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L60)
+[src/types/shared.ts:60](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L60)
 
 ___
 
@@ -458,7 +458,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:77](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L77)
+[src/types/shared.ts:77](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L77)
 
 ___
 
@@ -468,7 +468,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:44](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L44)
+[src/types/shared.ts:44](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L44)
 
 ___
 
@@ -478,7 +478,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:61](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L61)
+[src/types/shared.ts:61](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L61)
 
 ___
 
@@ -488,7 +488,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:27](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L27)
+[src/types/shared.ts:27](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L27)
 
 ___
 
@@ -498,7 +498,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:46](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L46)
+[src/types/shared.ts:46](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L46)
 
 ___
 
@@ -508,7 +508,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:51](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L51)
+[src/types/shared.ts:51](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L51)
 
 ___
 
@@ -518,7 +518,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:52](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L52)
+[src/types/shared.ts:52](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L52)
 
 ___
 
@@ -528,7 +528,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:72](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L72)
+[src/types/shared.ts:72](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L72)
 
 ___
 
@@ -538,7 +538,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:28](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L28)
+[src/types/shared.ts:28](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L28)
 
 ___
 
@@ -548,7 +548,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:29](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L29)
+[src/types/shared.ts:29](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L29)
 
 ___
 
@@ -558,7 +558,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:38](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L38)
+[src/types/shared.ts:38](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L38)
 
 ___
 
@@ -568,7 +568,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:37](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L37)
+[src/types/shared.ts:37](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L37)
 
 ___
 
@@ -578,7 +578,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:73](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L73)
+[src/types/shared.ts:73](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L73)
 
 ___
 
@@ -588,7 +588,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:33](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L33)
+[src/types/shared.ts:33](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L33)
 
 ___
 
@@ -598,7 +598,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:75](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L75)
+[src/types/shared.ts:75](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L75)
 
 ___
 
@@ -608,7 +608,7 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:34](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L34)
+[src/types/shared.ts:34](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L34)
 
 ___
 
@@ -618,4 +618,4 @@ ___
 
 #### Defined in
 
-[src/types/shared.ts:76](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/shared.ts#L76)
+[src/types/shared.ts:76](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/shared.ts#L76)

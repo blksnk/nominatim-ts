@@ -34,4 +34,4 @@ This is a number that corresponds roughly to the zoom level used in XYZ tile sou
 
 #### Defined in
 
-[src/types/queries/reverse.ts:24](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/reverse.ts#L24)
+[src/types/queries/reverse.ts:30](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/reverse.ts#L30)

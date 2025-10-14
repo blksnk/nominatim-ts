@@ -32,7 +32,7 @@ Include a breakdown of the address into elements
 
 #### Defined in
 
-[src/types/queries/shared.ts:77](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L77)
+[src/types/queries/shared.ts:77](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L77)
 
 ___
 
@@ -48,7 +48,7 @@ Include additional information in the result if available, e.g. wikipedia link, 
 
 #### Defined in
 
-[src/types/queries/shared.ts:83](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L83)
+[src/types/queries/shared.ts:83](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L83)
 
 ___
 
@@ -65,4 +65,4 @@ These may include language variants, references, operator and brand.
 
 #### Defined in
 
-[src/types/queries/shared.ts:90](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L90)
+[src/types/queries/shared.ts:90](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L90)

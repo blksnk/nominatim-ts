@@ -29,7 +29,7 @@
 
 #### Defined in
 
-[src/types/geo.ts:33](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/geo.ts#L33)
+[src/types/geo.ts:33](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/geo.ts#L33)
 
 ___
 
@@ -43,4 +43,4 @@ ___
 
 #### Defined in
 
-[src/types/geo.ts:32](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/geo.ts#L32)
+[src/types/geo.ts:32](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/geo.ts#L32)

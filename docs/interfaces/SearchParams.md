@@ -55,7 +55,7 @@ Either use a standard RFC2616 accept-language string or a simple comma-separated
 
 #### Defined in
 
-[src/types/queries/shared.ts:49](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L49)
+[src/types/queries/shared.ts:49](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L49)
 
 ___
 
@@ -75,7 +75,7 @@ Include a breakdown of the address into elements
 
 #### Defined in
 
-[src/types/queries/shared.ts:77](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L77)
+[src/types/queries/shared.ts:77](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L77)
 
 ___
 
@@ -101,7 +101,7 @@ There is no guarantee that the result is complete.
 
 #### Defined in
 
-[src/types/queries/search.ts:85](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L85)
+[src/types/queries/search.ts:85](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L85)
 
 ___
 
@@ -125,7 +125,7 @@ Must be the [ISO 3166-1alpha2 code](https://nominatim.org/release-docs/latest/ap
 
 #### Defined in
 
-[src/types/queries/search.ts:50](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L50)
+[src/types/queries/search.ts:50](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L50)
 
 ___
 
@@ -150,7 +150,7 @@ The output is (rough) HTML format. This overrides the specified machine readable
 
 #### Defined in
 
-[src/types/queries/shared.ts:65](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L65)
+[src/types/queries/shared.ts:65](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L65)
 
 ___
 
@@ -171,7 +171,7 @@ Nominatim will attempt to detect such duplicates and only return one match unles
 
 #### Defined in
 
-[src/types/queries/search.ts:102](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L102)
+[src/types/queries/search.ts:102](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L102)
 
 ___
 
@@ -191,7 +191,7 @@ If you are making large numbers of requests, please include an appropriate email
 
 #### Defined in
 
-[src/types/queries/shared.ts:55](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L55)
+[src/types/queries/shared.ts:55](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L55)
 
 ___
 
@@ -214,7 +214,7 @@ If a previous query only returned a few results, then including those here would
 
 #### Defined in
 
-[src/types/queries/search.ts:57](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L57)
+[src/types/queries/search.ts:57](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L57)
 
 ___
 
@@ -234,7 +234,7 @@ Include additional information in the result if available, e.g. wikipedia link, 
 
 #### Defined in
 
-[src/types/queries/shared.ts:83](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L83)
+[src/types/queries/shared.ts:83](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L83)
 
 ___
 
@@ -258,7 +258,7 @@ Dictates api response format
 
 #### Defined in
 
-[src/types/queries/shared.ts:104](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L104)
+[src/types/queries/shared.ts:104](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L104)
 
 ___
 
@@ -279,7 +279,7 @@ Number between `1` and `50`
 
 #### Defined in
 
-[src/types/queries/search.ts:64](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L64)
+[src/types/queries/search.ts:64](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L64)
 
 ___
 
@@ -300,7 +300,7 @@ These may include language variants, references, operator and brand.
 
 #### Defined in
 
-[src/types/queries/shared.ts:90](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L90)
+[src/types/queries/shared.ts:90](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L90)
 
 ___
 
@@ -314,7 +314,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L27)
+[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L27)
 
 ___
 
@@ -328,7 +328,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:28](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L28)
+[src/types/queries/shared.ts:28](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L28)
 
 ___
 
@@ -342,7 +342,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:29](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L29)
+[src/types/queries/shared.ts:29](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L29)
 
 ___
 
@@ -356,7 +356,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:30](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L30)
+[src/types/queries/shared.ts:30](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L30)
 
 ___
 
@@ -378,7 +378,7 @@ Topology is preserved in the result.
 
 #### Defined in
 
-[src/types/queries/shared.ts:41](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L41)
+[src/types/queries/shared.ts:41](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L41)
 
 ___
 
@@ -405,4 +405,4 @@ Any two corner points of the box are accepted as long as they span a real box.
 
 #### Defined in
 
-[src/types/queries/search.ts:74](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L74)
+[src/types/queries/search.ts:74](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L74)

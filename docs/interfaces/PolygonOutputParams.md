@@ -35,7 +35,7 @@ Only one of these options can be used at a time.
 
 #### Defined in
 
-[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L27)
+[src/types/queries/shared.ts:27](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L27)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:28](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L28)
+[src/types/queries/shared.ts:28](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L28)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:29](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L29)
+[src/types/queries/shared.ts:29](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L29)
 
 ___
 
@@ -65,4 +65,4 @@ ___
 
 #### Defined in
 
-[src/types/queries/shared.ts:30](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/shared.ts#L30)
+[src/types/queries/shared.ts:30](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/shared.ts#L30)

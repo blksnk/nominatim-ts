@@ -42,4 +42,4 @@ Up to 50 ids can be queried at the same time.
 
 #### Defined in
 
-[src/types/queries/lookup.ts:79](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/lookup.ts#L79)
+[src/types/queries/lookup.ts:79](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/lookup.ts#L79)

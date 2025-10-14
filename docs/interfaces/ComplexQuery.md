@@ -35,7 +35,7 @@ Structured requests are faster but are less robust against alternative OSM taggi
 
 #### Defined in
 
-[src/types/queries/search.ts:35](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L35)
+[src/types/queries/search.ts:35](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L35)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:38](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L38)
+[src/types/queries/search.ts:38](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L38)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:36](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L36)
+[src/types/queries/search.ts:36](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L36)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:39](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L39)
+[src/types/queries/search.ts:39](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L39)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:33](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L33)
+[src/types/queries/search.ts:33](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L33)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:37](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L37)
+[src/types/queries/search.ts:37](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L37)
 
 ___
 
@@ -95,4 +95,4 @@ ___
 
 #### Defined in
 
-[src/types/queries/search.ts:34](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/queries/search.ts#L34)
+[src/types/queries/search.ts:34](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/queries/search.ts#L34)

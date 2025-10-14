@@ -23,4 +23,4 @@
 
 #### Defined in
 
-[src/types/responses/error.ts:6](https://github.com/blksnk/nominatim-js/blob/a025e65/src/types/responses/error.ts#L6)
+[src/types/responses/error.ts:6](https://github.com/blksnk/nominatim-ts/blob/8e52874/src/types/responses/error.ts#L6)
