@@ -32,7 +32,7 @@ export class NominatimException extends Error {
 
 /**
  * Throws a NominatimException if the API response is an error, otherwise returns the response.
- * 
+ *
  * @template TResponse - The expected type of the successful response.
  * @param {ResponseOrError<TResponse>} apiResponse - The response from the API, which could be a successful response or an error.
  * @returns {TResponse} The successful response if no error was encountered.
