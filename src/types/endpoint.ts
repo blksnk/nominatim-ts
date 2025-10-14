@@ -33,7 +33,7 @@ export declare type NominatimApiUrl<
   ? TReplacementUrl
   : NominatimBaseUrl}${TEndpoint}`;
 
-export declare type ResponseOrError<TResponse extends object> =
+export declare type ResponseOrError<TResponse extends object | string> =
   | TResponse
   | NominatimErrorResponse
   | NominatimStatusFormatErrorResponse;
