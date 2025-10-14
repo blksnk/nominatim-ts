@@ -34,7 +34,7 @@ const parseParams = <
   params = {
     ...params,
     format:
-      // @ts-ignore
+      // @ts-expect-error add support for XML
       params.format === "xml" || !params.format ? "jsonv2" : params.format,
   };
 
